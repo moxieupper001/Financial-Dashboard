@@ -4,11 +4,7 @@
 
 ## Problem Statement
 
-This dashboard helps the airlines understand their customers better. It helps the airlines know if their customers are satisfied with their services. Through different ratings, they get to know their improvement area, & thus they can improve their services by identifying these area. It also lets them know the average delay & departure time, thus since by using this dashboard they have identified this problem, they can further work on factors responsible for these unwanted delays.
-
-Since, number of neutral/dissatisfied customers (almost 57 %) are more than satisfied customers (around 43 %), thus in all they must work on improving their services. 
-
-Also since average delay in arrival & departure both is 15 minutes, thus they must try to reduce it.
+The Dashboard shows the financial statement of the organisation, this helps the organisation to simplify and understand their financial statement and make good sound decision to help improve profit and customer satisfaction. The financial statement calculates the gross profit and Gross profit percentage which will help the business to renegotiate terms with the suppliers in the new business year. The financial Simulator help the business management to make sound decision about the percentage change in variables (unit price, Quantity etc) and the resultant effect on the organisation Profit/Loss, and this can help in better negotiation and increasing selling price at the most profitable rate.
 
 
 ### Steps followed 
