@@ -1,6 +1,7 @@
 # Financial-Dashboard
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/4801ea95-391f-4a2c-ad2f-6c10a5f7daed/ReportSection?
+Please download the PBIW5- Finanacial Dashboard.pbix file to view the deashboard
 
 ## Problem Statement
 
