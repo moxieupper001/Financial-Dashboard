@@ -67,7 +67,7 @@ The dashboard was built to answer three core business questions:
 ## Business Impact
 
 
-# This dashboard demonstrates the ability to:
+ This dashboard demonstrates the ability to:
 
 - Replace static, manual month-end reporting with a live, self-service reporting tool, reducing time spent producing recurring reports
   
@@ -78,9 +78,7 @@ The dashboard was built to answer three core business questions:
 - Present complex financial data (P&L, variance analysis) in a way that's accessible to non-finance stakeholders
 
 
-## Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiYzYyOGY2MjUtMmIzMC00YTlmLWFjZGUtZTE2NTk2YmY5OGEyIiwidCI6IjUxYTBhNjljLTBlNGYtNGIzZC1iNjQyLTEyZTAxMzE5ODYzNSIsImMiOjh9
 
-### Please download the PBIW5- Finanacial Dashboard.pbix file or link above to view the Power BI dashboards in the Power Bi service
 
 
 
