@@ -15,9 +15,12 @@ Designed and built a multi-page, interactive Power BI dashboard providing end-to
 
 The dashboard was built to answer three core business questions:
 
-#1. Where is revenue and margin being generated across sales channels, suppliers and product categories?
-#2. How is financial performance trending month-on-month, and where are the variances against prior periods?
-#3. What would happen to profitability if key commercial levers (price, volume, cost, expenses) were changed, before those decisions are made?
+1. Where is revenue and margin being generated across sales channels, suppliers and product categories?
+ 
+2. How is financial performance trending month-on-month, and where are the variances against prior periods?
+
+3. What would happen to profitability if key commercial levers (price, volume, cost, expenses) were changed, before those decisions are made?
+
 
 ## Key Features
 # 1. Revenue & Margin Analysis Page
