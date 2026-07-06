@@ -1,7 +1,7 @@
 # Financial-Dashboard
 ## Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiYzYyOGY2MjUtMmIzMC00YTlmLWFjZGUtZTE2NTk2YmY5OGEyIiwidCI6IjUxYTBhNjljLTBlNGYtNGIzZC1iNjQyLTEyZTAxMzE5ODYzNSIsImMiOjh9
 
-Please download the PBIW5- Finanacial Dashboard.pbix file or link above to view the Power BI dashboards in the Power Bi service
+Please use the link above to view the Financial Analysis Dashboard directly in the Power BI Service or download the PBIW5 - Financial Dashboard.pbix on your desktop.
 
 ## Problem Statement
 
