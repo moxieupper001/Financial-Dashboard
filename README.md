@@ -75,7 +75,7 @@ The dashboard was built to answer three core business questions:
 - Present complex financial data (P&L, variance analysis) in a way that's accessible to non-finance stakeholders
 
 
-## Dashboard Link : [https://app.powerbi.com/groups/me/reports/4801ea95-391f-4a2c-ad2f-6c10a5f7daed/ReportSection?](https://app.powerbi.com/view?r=eyJrIjoiYzYyOGY2MjUtMmIzMC00YTlmLWFjZGUtZTE2NTk2YmY5OGEyIiwidCI6IjUxYTBhNjljLTBlNGYtNGIzZC1iNjQyLTEyZTAxMzE5ODYzNSIsImMiOjh9)
+## Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiYzYyOGY2MjUtMmIzMC00YTlmLWFjZGUtZTE2NTk2YmY5OGEyIiwidCI6IjUxYTBhNjljLTBlNGYtNGIzZC1iNjQyLTEyZTAxMzE5ODYzNSIsImMiOjh9
 
 ### Please download the PBIW5- Finanacial Dashboard.pbix file or link above to view the Power BI dashboards in the Power Bi service
 
