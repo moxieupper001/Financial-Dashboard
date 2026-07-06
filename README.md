@@ -32,7 +32,7 @@ The dashboard was built to answer three core business questions:
 
 # 2. Income Statement Page
 
-#. Full P&L structure (Gross Revenue → Cost of Sales → Gross Margin → Operating Expenses → Operating Income) rebuilt as an interactive DAX-driven statement rather than a static export.
+ - Full P&L structure (Gross Revenue → Cost of Sales → Gross Margin → Operating Expenses → Operating Income) rebuilt as an interactive DAX-driven statement rather than a static export.
 #. Built Vertical Analysis (VA%) and Horizontal Analysis (HA%) calculations directly into the model, automatically showing each line item as a % of revenue and its % change versus the prior month, standard financial analysis techniques automated for instant reporting.
 #. Waterfall chart visualising Operating Income build-up by month, making it easy to see which months drove overall annual profitability ($2.2M total operating income).
 
